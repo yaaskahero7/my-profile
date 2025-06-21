@@ -1,0 +1,49 @@
+body{
+    background-color: #271f53;
+}
+header{
+    justify-content: center; 
+     margin-top: 10px;
+    display: flex;
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      overflow: hidden;
+      box-shadow: 0 0 10px aqua, 0 0 10px aquamarine;
+      animation: glow-border 1.5s infinite alternate;
+}
+ 
+ 
+button{
+    background-color: blue;
+    color: aliceblue;
+    box-shadow: 0 0 2px cyan;
+    border-radius: 25px;
+    border-color: aqua;
+    font: bold;  
+    width: 290PX;
+    height: 40PX;
+    font-size: 1em;
+    
+}
+ 
+
+footer{
+    text-align: center;
+}
+.kk{
+    margin-right: 25%;
+    border:2px groove #050608;
+    width: 22em;
+    margin-left: 25em;
+    background-color: azure;
+    border-radius: 19px;  
+}
+main{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.na{
+    font-size: 2em;
+}
+
